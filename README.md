@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Maks 👋
+
+🌱 I’m currently learning C and Python.
+🔭 I’m currently seaching for a job as developer for some cool project on C or Python, but I'm open to learn some other technologies and program languages.
+
+📫 How to reach me: instagran.com/madetobeland
+                    https://telegram.me/madetobeland
 
 <!--
 **made-to-be-land/made-to-be-land** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
