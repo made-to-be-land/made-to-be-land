@@ -3,7 +3,7 @@
 🌱 I’m currently learning C and Python.
 🔭 I’m currently seaching for a job as developer for some awesome project on C or Python, but I'm open to learn some other technologies and program languages.
 
-📫 How to reach me: instagran.com/madetobeland
+📫 How to reach me: instagram.com/madetobeland
                     https://telegram.me/madetobeland
 
 <!--
