@@ -3,8 +3,8 @@
 🌱 I’m currently learning C and Python.
 🔭 I’m currently seaching for a job as developer for some awesome project on C or Python, but I'm open to learn some other technologies and program languages.
 
-📫 How to reach me: https://www.instagram.com/madetobeland/
-                    https://telegram.me/madetobeland
+📫 How to reach me: 
+                    https://telegram.me/madiache
 
 <!--
 **made-to-be-land/made-to-be-land** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
